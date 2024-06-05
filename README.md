@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **+251918819445**
 
-- ⚡ Fun fact **I smile a lot!😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

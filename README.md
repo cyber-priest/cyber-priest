@@ -2,7 +2,7 @@
 <h3 align="center">Pimping React & NextJs</h3>
 
 - Also experienced in **Node, GraphQL, REST Api, Python, MongoDB, Firebase**
-- All of my projects are available at [https://mikael-alehegn.web.app/](https://mikael-alehegn.web.app/)
+- All of my projects are available at [https://mikael-alehegn.vercel.app/](https://mikael-alehegn.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
